@@ -18,7 +18,11 @@ namespace DOTNET
 
             switch (user_option)
             {
-                case "1" : break;
+                case "1" :
+                    Console.Clear();    
+                    Console.WriteLine("======== Login ==========");
+                    
+                    break;
                 case "2" :
                     Console.Clear();    
                     Console.WriteLine("======== Register ==========");
