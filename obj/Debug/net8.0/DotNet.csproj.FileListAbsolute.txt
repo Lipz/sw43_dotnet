@@ -1,0 +1,14 @@
+/Users/lipz/Documents/SETEC/DotNet/bin/Debug/net8.0/DotNet
+/Users/lipz/Documents/SETEC/DotNet/bin/Debug/net8.0/DotNet.deps.json
+/Users/lipz/Documents/SETEC/DotNet/bin/Debug/net8.0/DotNet.runtimeconfig.json
+/Users/lipz/Documents/SETEC/DotNet/bin/Debug/net8.0/DotNet.dll
+/Users/lipz/Documents/SETEC/DotNet/bin/Debug/net8.0/DotNet.pdb
+/Users/lipz/Documents/SETEC/DotNet/obj/Debug/net8.0/DotNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lipz/Documents/SETEC/DotNet/obj/Debug/net8.0/DotNet.AssemblyInfoInputs.cache
+/Users/lipz/Documents/SETEC/DotNet/obj/Debug/net8.0/DotNet.AssemblyInfo.cs
+/Users/lipz/Documents/SETEC/DotNet/obj/Debug/net8.0/DotNet.csproj.CoreCompileInputs.cache
+/Users/lipz/Documents/SETEC/DotNet/obj/Debug/net8.0/DotNet.dll
+/Users/lipz/Documents/SETEC/DotNet/obj/Debug/net8.0/refint/DotNet.dll
+/Users/lipz/Documents/SETEC/DotNet/obj/Debug/net8.0/DotNet.pdb
+/Users/lipz/Documents/SETEC/DotNet/obj/Debug/net8.0/DotNet.genruntimeconfig.cache
+/Users/lipz/Documents/SETEC/DotNet/obj/Debug/net8.0/ref/DotNet.dll
